@@ -1,0 +1,8 @@
+{
+    "latest_version": "2.1.2",
+    "min_version": "2.0.9",
+    "update_title": "发现新版本 2.1.2",
+    "update_msg": "1. 优化网络加载，多地址备选加载\n2. 没了╮(╯▽╰)╭",
+    "download_url": "https://pan.quark.cn/s/550ebcf3c24e?pwd=E8Hw",
+    "force_update": false
+}
