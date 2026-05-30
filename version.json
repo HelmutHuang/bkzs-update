@@ -2,7 +2,7 @@
     "latest_version": "2.1.5",
     "min_version": "2.1.3",
     "update_title": "发现新版本 2.1.5",
-    "update_msg": "1. 移除BOSS嘉年华脚本\n2. 任务增加日常各种领取功能",
+    "update_msg": "1. 移除BOSS嘉年华脚本\n2. 任务增加日常各种领取功能\n3. 修复每日任务执行问题\n4. 修复手机端不能氪金问题",
     "download_url": "https://pan.quark.cn/s/550ebcf3c24e?pwd=E8Hw",
     "force_update": false
 }
