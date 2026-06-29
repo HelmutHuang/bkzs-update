@@ -1,7 +1,7 @@
 {
-    "latest_version": "2.1.5",
+    "latest_version": "2.1.6",
     "min_version": "2.1.3",
-    "update_title": "发现新版本 2.1.5",
+    "update_title": "发现新版本 2.1.6",
     "update_msg": "1. 移除BOSS嘉年华脚本\n2. 任务增加日常各种领取功能\n3. 修复每日任务执行问题\n4. 增加红包统计功能",
     "download_url": "https://pan.quark.cn/s/550ebcf3c24e?pwd=E8Hw",
     "force_update": false
