@@ -1,8 +1,8 @@
 {
-    "latest_version": "2.1.6",
+    "latest_version": "2.1.7",
     "min_version": "2.1.3",
-    "update_title": "发现新版本 2.1.6",
-    "update_msg": "1. 重启快乐，增加采集类别\n2. 优化自动护符运行机制\n3. 新增自动专武功能，进入专武页面后可开启",
-    "download_url": "https://pan.quark.cn/s/550ebcf3c24e?pwd=E8Hw",
+    "update_title": "发现新版本 2.1.7",
+    "update_msg": "1. 补充新增英雄、地图数据\n2. 优化自动开箱\n3. 快乐竞技增加屏蔽设置",
+    "download_url": "https://bkzs.netlify.app/",
     "force_update": false
 }
